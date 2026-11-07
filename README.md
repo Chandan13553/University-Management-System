@@ -78,7 +78,7 @@ University-Management-System/
 
 **Main menu**
 
-![Main Menu]()
+![Main Menu](screenshots/Main_Menu.png)
 
 **Student information view**
 
