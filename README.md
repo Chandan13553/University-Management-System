@@ -10,7 +10,6 @@ The goal of this project was to practice designing a system with real relationsh
 - Register students and maintain their records
 - Enroll in and withdraw from courses
 - Record marks and calculate grades
-- View a student's full academic history
 
 **Professor management**
 - Register professors and maintain their records
@@ -63,7 +62,7 @@ University-Management-System/
 ├── student.py
 ├── professor.py
 ├── course.py
-├── university.py        # Top-level coordinator
+├── university.py       
 ├── searchrecord.py
 ├── storage.py           # JSON persistence layer
 │
@@ -79,7 +78,7 @@ University-Management-System/
 
 **Main menu**
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu]()
 
 **Student information view**
 
