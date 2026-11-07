@@ -125,6 +125,6 @@ A few things that would be worth adding down the line:
 
 ## Author
 
-**Chandan Kumar Panjiyar** — Computer Engineering student, working on Python and software development.
+**Chandan Kumar Panjiyar** — Computer Engineering student.
 
 *Built as a hands-on way to practice object-oriented design and Python development beyond toy examples.*
