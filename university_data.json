@@ -1,0 +1,10 @@
+{
+    "students": [],
+    "professors": [],
+    "courses": [],
+    "student_courses": [],
+    "student_marks": [],
+    "student_grades": [],
+    "professor_courses": [],
+    "course_students": []
+}
